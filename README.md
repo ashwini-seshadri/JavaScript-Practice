@@ -6,3 +6,7 @@
 4. Array JS
 5. Flex Panel Gallery
 6. AJAX Type Ahead
+7. Array JS 2
+8. HTML Canvas
+9. DevTools Domination
+10. Check Multiple Checkboxes
