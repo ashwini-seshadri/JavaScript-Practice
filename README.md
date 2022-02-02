@@ -10,3 +10,13 @@
 8. HTML Canvas
 9. DevTools Domination
 10. Check Multiple Checkboxes
+11. Custom Video Player
+12. Key Sequence Detection
+13. Slide On Scroll
+14. JS References
+15. Local Storage
+16. Mouse Move Shadow
+17. Sort Without Articles
+18. Adding Up Times with Reduce
+19. Webcam Fun
+20. Speech Detection
