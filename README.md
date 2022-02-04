@@ -1,4 +1,5 @@
 ### JavaScript, CSS, HTML Practice Projects
+#### JavaScript30 by WesBos
 
 1. Drum Kit
 2. Clock
@@ -20,3 +21,13 @@
 18. Adding Up Times with Reduce
 19. Webcam Fun
 20. Speech Detection
+21. Geolocation
+22. Follow Along Link Highlighter
+23. Speech synthesis
+24. Sticky Nav
+25. Event capture, Propogation, Bubbling and once
+26. Stripe Follow Along Nav
+27. Click and Drag
+28. Video Speed Controller
+29. Countdown timer
+30. Whack A Mole
